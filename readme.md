@@ -10,7 +10,7 @@
 Continuing with Frontend Mentor, I have made another of the projects that are there.
 
 ### Link (RESULTS FINAL)
-***Difficulty: "NEWBIE"*** - [FinlaSite](https://qr-site-frontendmentor.netlify.app/)
+***Difficulty: "NEWBIE"*** - [Final Site](https://qr-site-frontendmentor.netlify.app/)
 
 ### Built with
 
