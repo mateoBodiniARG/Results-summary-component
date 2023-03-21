@@ -1,6 +1,9 @@
 # REAL DESIGN
-![Descripción de la imagen](/design/desktop-design.jpg)
+## Desktop design
+![DesktopVersion](/design/desktop-design.jpg)
+## Active state
 ![Descripción de la imagen](/design/active-states.jpg)
+## Mobile design
 ![Descripción de la imagen](/design/mobile-design.jpg)
 
 # Frontend Mentor
