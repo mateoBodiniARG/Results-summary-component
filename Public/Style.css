@@ -88,7 +88,9 @@ body {
     color: #222;
     font-weight: bold;
   }
-
+.grey-color{
+  color:rgb(121, 121, 121)
+}
   .score-con{
     font-weight: 600;
   }
