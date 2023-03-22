@@ -16,6 +16,7 @@ Continuing with Frontend Mentor, I have made another of the projects that are th
 
 - HTML5
 - Vanilla CSS
+- Media Queries
 
 ### Continued development
 
